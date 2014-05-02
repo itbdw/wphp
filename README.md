@@ -1,8 +1,5 @@
-wphp
-====
+THIS PROJECT IS WITHOUT ANY MAINTENANCE RIGHT NOW
+===
 
-A WhitePHP FrameWork
-
-Please check out from google code for the latest code.
-
-https://code.google.com/p/whitephp/source/checkout
+项目不再维护
+===
